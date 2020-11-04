@@ -10,9 +10,10 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        var array = mutableListOf<String>()
-        array[0] = "Hello"
-        findViewById<TextView>(R.id.textView).text = array[1]
+            //to test the app uncomment the code to crash your app
+//        var array = mutableListOf<String>()
+//        array[0] = "Hello"
+//        findViewById<TextView>(R.id.textView).text = array[1]
 
     }
 }

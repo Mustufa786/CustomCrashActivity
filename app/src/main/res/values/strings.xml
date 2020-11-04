@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CustomErrorScreen</string>
+    <string name="ouch_something_went_wrong">Ouch! Something Went Wrong!</string>
+</resources>
